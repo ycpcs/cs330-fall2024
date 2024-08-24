@@ -7,7 +7,7 @@ This page links to homework and programming assignments.
 
 > Assignment | Solutions | Points | Due
 > ---------- | ---- | ------ | ---
-> [Review Ethics Guide](assignment1.html) | n/a | n/a | Aug 29, 2024
+> [Review Ethics Guide](ethics.html) | n/a | n/a | Aug 29, 2024
 
 <!--
 > Chapter 1 [Homework](homework1.html) | [Review](homework1_review.html) | 100 | Sept 20, 2023

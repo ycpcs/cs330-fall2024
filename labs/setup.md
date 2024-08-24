@@ -10,28 +10,29 @@ Before installing the SEED VM, please do the following:
 
 - Install the free [Oracle® VM VirtualBox](https://www.virtualbox.org/) software first.
   - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. User Manual can be found [here](https://www.virtualbox.org/manual/).
-  - Download the iso file `ubuntu-22.04.3-desktop-amd64.iso` from [Ubuntu](https://ubuntu.com/download/desktop/thank-you?version=22.04.3&architecture=amd64), This document shows how to build a virtual machine
-using this image.
+  - Download the iso file `ubuntu-24.04-desktop-amd64.iso` from [Ubuntu](https://ubuntu.com/download/desktop/thank-you?version=24.04&architecture=amd64&lts=true), This document shows how to build a virtual machine using this image. 
+  
+### Note:
+
+Do not download the ISO to your `H:` drive; use the `C:` drive instead. There are known issues with running the VM from the `H:` drive.
 
 ### Step 1: Create a New VM in VirtualBox
 
-We need to use `New` to create a new virtual machine.
+We need to use the `New` option to create a new virtual machine.
 
 ![New](images/vm-new.png)
 ![name](images/vm-name.png)
-![virtual disk](images/vm-vh-disk.png)
+<!-- ![virtual disk](images/vm-vh-disk.png)
 ![type](images/vm-vh-disk-type.png)
 ![storage](images/vm-vh-disk-storage.png)
-![size](images/vm-vh-disk-size.png)
+![size](images/vm-vh-disk-size.png) -->
 
-- We need to allocate dedicated memory for the VM. 4 GB should be sufficient. If your computer has more
-RAM, you can increase accordingly. The more memory you give to the VM, the better the performance you will get.
+- We need to allocate dedicated memory for the VM. 4 GB should be adequate for most needs. If your computer has additional RAM, you may increase this amount to enhance performance. More memory generally improves the VM's performance.
 
 ![4 GB](images/vm-memory.png)
 
 ### Step 2: Configure the VM
-After the previous step, your VM will be created, and you will see it on VirtualBox's VM panel. We need to do some further
-configuration. Right-click the M, click the `Settings` option, and we will see the Settings window.
+After completing the previous step, your VM will be created and visible in the VirtualBox VM panel. We need to perform additional configuration. Right-click the VM, select the `Settings` option, and the Settings window will appear.
 
 ![Settings](images/vm-settings.png)
 
@@ -50,33 +51,38 @@ To make it bigger, adjust the `Scale Factor` in this setting.
 
 ![Video Memory](images/vm-display.png)
 
-Now we can pick the iso we downloaded earlier. 
+Here is a summary of the selected options. 
 
-![boot image](images/vm-storage.png)
-
-![mine]](images/vm-iso.png)
+![summary](images/vm-summary.png)
 
 ### Step 3: Install the VM
-We can install Ubuntu by starting the newly created VM. 
+We can install Ubuntu by starting the newly created VM. Proceed through the installation wizard If you have any questions, don’t hesitate to ask.
 
 ![Start](images/vm-start.png)
 ![installation](images/vm-install.png)
 ![install](images/vm-install-screen.png)
 
+ I choose to install recommended proprietary software.
+
+ ![Third-Party software](images/vm-proprietary.png)
+
 For installation type, pick `Erase disk and install Ubuntu`
 
 ![Erase Disk](images/vm-erase-disk.png)
 
-Continue through the normal installation process, remember your user name and password. I will use the following:
-- User name: ```cs335```
-- Password: ```cs335```
+Continue with the standard installation process and be sure to remember your username and password. I will use the following credentials:
+- User name: ```ubuntu```
+- Password: ```ubuntu```
   
-![Alt text](images/vm-creds.png)
+![credentials](images/vm-creds.png)
+
+Congratulation, your VM and ready.
+
+![Installation Complete](images/vm-complete.png)
 
 ### Appendix A: Enable Copy and Paste
 
-Go to the `General` category, and select the `Advanced` tab. Select `Bidirectional` for both items. The first item allows users to copy
-and paste between the VM and the host computer The second item allows users to transfer files between the VM and the host computer using Drag'n Drop (this feature is not always reliable).
+Navigate to the `General` category and select the `Advanced` tab. Set both options to `Bidirectional`. The first option enables copying and pasting between the VM and the host computer, while the second allows file transfers using drag-and-drop (note that this feature may not always be reliable).
 
 ![Copy and Paste](images/vm-copy-paste.png)
 
@@ -92,6 +98,6 @@ We can now `Start` the VM. You can also use the `Take` button to take a snapshot
 - ```sudo apt-get autoremove``` - deletes orphaned packages, or dependencies that remain installed after you have installed an application and then deleted it.
 - ```sudo apt-get clean``` - removes all packages from the cache.
 
-#### Install Editors
-- Sublime: ```sudo snap install sublime-text --classic```  
+#### Install Editors 
 - Visual Studio Code: ```sudo snap install --classic code```
+- Sublime: ```sudo snap install sublime-text --classic``` 

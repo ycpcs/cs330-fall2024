@@ -16,7 +16,7 @@ Welcome to the CS 330 course page for Fall 2024 at York College. All course-rela
 * [Lab Setup](labs/setup.html)
 * [Notes](labs/notes.html)
 * [Resources](resources/index.html) 
-* [Ethics](assign/ethics.md)
+* [Ethics](assign/ethics.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
