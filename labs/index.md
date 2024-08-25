@@ -6,7 +6,9 @@ title: "Labs"
 This page links to individual labs. You **must** include screenshots with your submission.
 
 >  Date   | Lab | File(s) | Points | Due
-> ------- | --- | ------- | ---- | ----
+> ------- | --- | ------- | ------ | ----
+> 
+
 
 <!--
 > Aug 29 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 05, 2023
