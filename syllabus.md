@@ -32,20 +32,22 @@ James Kurose and Keith Ross, <a href="https://www.pearson.com/us/higher-educatio
 Course Objectives
 -----------------
 
-This course offers an introduction to the fundamental concepts involved in designing and implementing computer networks, including their protocols and applications. Topics covered will include:
-- Overview of network architectures and applications
-- Network programming interfaces (e.g., sockets)
-- Transport mechanisms and congestion control
-- Network data plane (e.g., packet forwarding, addressing) and control plane (e.g., routing algorithms, software-defined networks, network management)
-- Link-layer protocols
-- Local area networks (LANs) and data center networks
-- Wireless networks
-- Introduction to network security
-The course will primarily use examples from the Internet protocol suite, including TCP, UDP, and IP.
+This course provides a comprehensive introduction to the core concepts of designing and implementing computer networks, focusing on protocols and applications. Key topics include:
 
-The course will include lab and homework assignments that feature both written and programming components. Additionally, there will be three midterm exams and one final exam.
+- **Network Architectures and Applications**: An overview of various network designs and their real-world applications.
+- **Network Programming Interfaces**: Practical use of interfaces such as sockets.
+- **Transport Mechanisms and Congestion Control**: Techniques for managing data transmission and network congestion.
+- **Data Plane and Control Plane**: Insights into packet forwarding, addressing, routing algorithms, software-defined networks, and network management.
+- **Link-Layer Protocols**: Examination of protocols at the link layer.
+- **Local Area Networks (LANs) and Data Center Networks**: Study of network structures within localized and data-intensive environments.
+- **Wireless Networks**: Exploration of wireless communication methods.
+- **Introduction to Network Security**: Fundamentals of securing network systems.
 
- Policies
+The course will primarily utilize examples from the Internet protocol suite, including TCP, UDP, and IP.
+
+Assignments will include both written and programming components, and the course will feature three midterm exams and one final exam.
+
+Policies
 -----------------
 
 ### Grades

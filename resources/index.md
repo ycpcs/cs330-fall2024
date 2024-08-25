@@ -8,9 +8,10 @@ This page contains links to useful resources.
 
 Development Environment
 ------------------------------------
-- Microsoft  [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
+- [Visual Studio Code](https://code.visualstudio.com) is a code editor redefined and optimized for building and debugging modern web and cloud applications. 
 - [GCC](https://gcc.gnu.org/), the GNU Compiler Collection.
 - [GDB](https://www.gnu.org/software/gdb/), the GNU Project Debugger.
+- Microsoft  [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
 - [Apache NetBeans](https://netbeans.org/) Quickly and easily develop desktop, mobile, and web applications
 with Java, JavaScript, HTML5, PHP, C/C++ and more.
 
