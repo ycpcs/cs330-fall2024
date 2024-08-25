@@ -56,10 +56,14 @@ Here is a summary of the selected options.
 ![summary](images/vm-summary.png)
 
 ### Step 3: Install the VM
-We can install Ubuntu by starting the newly created VM. Proceed through the installation wizard If you have any questions, don’t hesitate to ask.
+We can install Ubuntu by starting the newly created VM. 
 
 ![Start](images/vm-start.png)
+
 ![installation](images/vm-install.png)
+
+Click on the Install Ubuntu 24.04 LTS shortcut. Proceed through the installation wizard If you have any questions, don’t hesitate to ask.
+
 ![install](images/vm-install-screen.png)
 
  I choose to install recommended proprietary software.
@@ -76,7 +80,7 @@ Continue with the standard installation process and be sure to remember your use
   
 ![credentials](images/vm-creds.png)
 
-Congratulation, your VM and ready.
+Congratulation, your VM is ready.
 
 ![Installation Complete](images/vm-complete.png)
 
