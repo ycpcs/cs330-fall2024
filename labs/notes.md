@@ -27,6 +27,7 @@ title: "Lab - Notes"
 - ```sudo apt-get install wireshark```
 - ```sudo dpkg-reconfigure wireshark-common```
 - ```sudo adduser $USER wireshark```
+- ```sudo chmod +x /usr/bin/dumpcap```
 
 #### Install Python 
 - ```sudo apt-get install python3```
