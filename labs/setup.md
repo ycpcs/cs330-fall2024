@@ -30,6 +30,7 @@ We need to use the `New` option to create a new virtual machine.
 - We need to allocate dedicated memory for the VM. 4 GB should be adequate for most needs. If your computer has additional RAM, you may increase this amount to enhance performance. More memory generally improves the VM's performance.
 
 ![4 GB](images/vm-memory.png)
+![hard disk](images/vm-vh-disk-size.png)
 
 ### Step 2: Configure the VM
 After completing the previous step, your VM will be created and visible in the VirtualBox VM panel. We need to perform additional configuration. Right-click the VM, select the `Settings` option, and the Settings window will appear.
