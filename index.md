@@ -92,6 +92,7 @@ Welcome to the CS 330 course page for Fall 2024 at York College. All course-rela
 * **Sept 19** - Wireshark Lab: [HTTP](labs/files/Wireshark_HTTP_v8.1.pdf) Due
 * **Sept 05** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due 
 * -->
-  
+
+* **Sept 10** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due   
 * **Aug 29** - Review Ethics Guide: [Ethics Guide](assign/assignment1.html) Due
 * **Aug 27** - Welcome back!
