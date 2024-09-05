@@ -23,6 +23,10 @@ title: "Lab - Notes"
 - Visual Studio Code: ```sudo snap install --classic code```
   - Sublime: ```sudo snap install sublime-text --classic```  
   - clion: ```sudo snap install clion --classic```
+- Test Setup:
+  - List Network Adapters: <a href=".\files\list-network-adapters.c" target="_blank">list-network-adapters.c</a>
+    - Compile with ```gcc list-network-adapters.c -o list-network-adapters```
+    - Run with ```./list-network-adapters```
    
 #### Install Wireshark 
 - ```sudo apt-get install wireshark```
