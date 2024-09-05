@@ -17,11 +17,12 @@ title: "Lab - Notes"
 - ```sudo apt-get clean``` - removes all packages from the cache.
 
 #### Setup Environment
-- Sublime: ```sudo snap install sublime-text --classic```  
-- Visual Studio Code: ```sudo snap install --classic code```
-- clion: ```sudo snap install clion --classic```
 - GNU Development Tools Packages: ```sudo apt install build-essential gcc``` 
 - Install netcat: ```sudo apt-get install netcat```
+- Install networking tools: ```sudo apt install net-tools```
+- Visual Studio Code: ```sudo snap install --classic code```
+  - Sublime: ```sudo snap install sublime-text --classic```  
+  - clion: ```sudo snap install clion --classic```
    
 #### Install Wireshark 
 - ```sudo apt-get install wireshark```
