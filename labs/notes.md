@@ -9,6 +9,7 @@ title: "Lab - Notes"
 - [Install Python](#install-python)
 - [File Commands and Directory Navigation](#file-commands-and-directory-navigation)
 - [Networking](#networking)
+- [Socket](#socket)
 
 #### Upgrade VM 
 - ```sudo apt update``` - downloads package information from all configured sources.
@@ -71,3 +72,9 @@ title: "Lab - Notes"
   - ```netstat -rn```
   - ```ip route```
   - ```route -n```
+
+#### Socket 
+- [tcp_server.c](sockets/tcp_server.c)
+  - Why 14 on line 61?
+  - Display Client Data?
+  - Create a new server or update to handle HTTP requests.
