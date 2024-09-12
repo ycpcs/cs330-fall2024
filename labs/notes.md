@@ -18,7 +18,7 @@ title: "Lab - Notes"
 - ```sudo apt-get clean``` - removes all packages from the cache.
 
 #### Setup Environment
-- GNU Development Tools Packages: ```sudo apt install build-essential gcc``` 
+- GNU Development Tools Packages: ```sudo apt install build-essential gcc make perl dkms``` 
 - Install netcat: ```sudo apt-get install netcat```
 - Install networking tools: ```sudo apt install net-tools```
 - Visual Studio Code: ```sudo snap install --classic code```
