@@ -8,11 +8,10 @@ This page links to individual labs. You **must** include screenshots with your s
 >  Date   | Lab | File(s) | Points | Due
 > ------- | --- | ------- | ------ | ----
 > Sep 03 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 10, 2024
-
+> Sept 17 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 26, 2024
 
 <!--
 > Aug 29 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 05, 2023
-> Sept 07 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 19, 2023
 > Sept 12 | Wireshark | [DNS](files/Wireshark_DNS_v8.1.pdf) | 100 | Sept 21, 2023
 > Sept 26 | Programming | [Introduction to Sockets](sockets_intro.html) | 150 | Oct 05, 2023
 > Sept 28 | Visual | [Reliable Data Transfer](rdt.html) | 75 | Oct 10, 2023

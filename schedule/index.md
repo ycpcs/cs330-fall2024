@@ -18,8 +18,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 3 | 10-Sep | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Homework - [Chapter 1](../assign/homework1.html) |
 >| 3 | 12-Sep | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 |
 >|  |  |  |  |  |
->| 4 | 17-Sep | Application Layer: [SMTP & DNS](slides/chapter_2.pdf) | CN: 2.3 - 2.4 | |
->| 4 | 19-Sep | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 | |
+>| 4 | 17-Sep | Application Layer: [HTTP & SMTP](slides/chapter_2.pdf) | CN: 2.3 - 2.4 |  Wireshark Lab - [HTTP](../labs/files/Wireshark_HTTP_v8.1.pdf) |
+>| 4 | 19-Sep | Application Layer: [FTP & DNS](slides/chapter_2.pdf) | CN: 2.5 - 2.6 | |
 >|  |  |  |  |  |
 >| 5 | 24-Sep | EXAM 1 | CN: 1.1 - 2.6 | |
 >| 5 | 26-Sep | Transport Layer: [Design Issues](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | |
