@@ -68,7 +68,7 @@ A packet-switching scenario with _N<sub>ps</sub>_ users sharing a _150 Mbps_ lin
 <code>
 p = 0.2
 <br/>
-𝑝 ∗ (1 − 𝑝)<sup>(13 − 1)</sup> = 0.0137438953472 ~ 0.14
+𝑝 ∗ (1 − 𝑝)<sup>(13 − 1)</sup> = 0.0137438953472 ~ 0.014
 </code>
 
   - What is the probability that one user (any one among the 13 users) is transmitting, and the remaining users are not transmitting?
