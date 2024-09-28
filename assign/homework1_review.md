@@ -73,7 +73,7 @@ p = 0.2
 
   - What is the probability that one user (any one among the 13 users) is transmitting, and the remaining users are not transmitting?
 <code>
-13 ∗ 𝑝 ∗ (1 − 𝑝)<sup>(13 − 1)</sup> = 0.1786706395136 ~ 18%
+13 ∗ 𝑝 ∗ (1 − 𝑝)<sup>(13 − 1)</sup> = 0.1786706395136 ~ 0.18
 </code>
 
   - When one user is transmitting, what fraction of the link capacity will be used by this user? Write your answer as a decimal number.
@@ -83,12 +83,12 @@ p = 0.2
 
   - When packet switching is used, what is the probability that any 7 users (of the total 13 users) are transmitting and the remaining users are not transmitting?
 <code>
-(13 choose 7) * 𝑝<sup>7</sup> ∗ (1 − 𝑝)<sup>(13-7)</sup> = 0.0057579405312 ~ 0.58
+(13 choose 7) * 𝑝<sup>7</sup> ∗ (1 − 𝑝)<sup>(13-7)</sup> = 0.0057579405312 ~ 0.0058
 </code>
 
   - When packet switching is used, what is the probability that more than 7 users are transmitting?
 <code>
-Sum{(13 choose n) * p <sup>n</sup> * (1 - p)<sup>(13 - n)</sup>}, for n = 8 to 13 => 0.0012456206336 ~ 0.012
+Sum{(13 choose n) * p <sup>n</sup> * (1 - p)<sup>(13 - n)</sup>}, for n = 8 to 13 => 0.0012456206336 ~ 0.0012
 </code>
 
 ### Problem 5 (5 pts)
