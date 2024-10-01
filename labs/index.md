@@ -9,6 +9,7 @@ This page links to individual labs. You **must** include screenshots with your s
 > ------- | --- | ------- | ------ | ----
 > Sep 03 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 10, 2024
 > Sept 17 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 26, 2024
+> Oct 01 | Programming Lab | [Introduction to Sockets](sockets_into.html) | 120 | Oct 10, 2024
 
 <!--
 > Aug 29 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 05, 2023
@@ -38,7 +39,6 @@ This page links to individual labs. You **must** include screenshots with your s
 <!--
 > Sept 24 | Lab | [Reliable Data Transfer](rdt.html) - [Solutions](rdt_solutions.html) | Oct 08
 > Sept 29 | Wireshark | [TCP](files/Wireshark_TCP_v7.0.pdf) - [local capture](files\tcp.pcapng) | Oct 10
-> Oct 01 | Programming Lab | [Introduction to Sockets](sockets_into.html) | Oct 13
 > Oct 20 | Wireshark | [NAT](files/Wireshark_NAT_v7.0.pdf) | Oct 29
 > Nov 17 | Programming Lab | [Ping Pong](pingpong.html) | Nov 30
 -->
