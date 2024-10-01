@@ -12,7 +12,7 @@ title: "Programming Lab - Introduction to Sockets"
   - [tcp_server.c](files/tcp_server.c)
   - [udp_server.c](files/udp_server.c)
 
-- Example:
+#### Example:
   - Compile with: ```gcc tcp_client.c -o tcp_client``` 
     - Note the name after ```-o``` flag 
   - Run with: ```./tcp_client```
