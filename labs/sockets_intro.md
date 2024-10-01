@@ -26,7 +26,7 @@ title: "Programming Lab - Introduction to Sockets"
   
 To ensure proper execution of each exercise, please remember to __stop and recompile both the server and client before running__. This helps to clear any previous configurations and ensures a clean environment for accurate results.
 
-### Run the applications and answer the following questions:
+### Please respond to the following questions:
   - Suppose you run `tcp_client` before you run `tcp_server`. Enter a value.
     - What happens?
     - Why?
@@ -52,12 +52,12 @@ To ensure proper execution of each exercise, please remember to __stop and recom
       - What was the actual outcome? 
       - Why?
 
-### Programming: 
+### Programming Section: 
   - Update `tcp_client`, `udp_client`, `tcp_server` and `udp_server` to accept the **client and server** port numbers as _user_ input.
   - Modify `tcp_client` and `udp_client` to accept the **server** IP Address as _user_ input.
   - Implement functionality that allows both clients to continuously send messages until a QUIT command is entered.
  
-### Extra Credit:  
+### Extra Credit:
   - Enhance the `tcp_server` to support multiple clients.
   - Feel free to experiment with the code and surprise me! Don't hesitate to explore and push boundaries—breaking things can lead to valuable learning experiences. Embrace the process!
 
