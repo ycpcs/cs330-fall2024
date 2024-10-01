@@ -9,7 +9,7 @@ This page links to individual labs. You **must** include screenshots with your s
 > ------- | --- | ------- | ------ | ----
 > Sep 03 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 10, 2024
 > Sept 17 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | 100 | Sept 26, 2024
-> Oct 01 | Programming Lab | [Introduction to Sockets](sockets_into.html) | 120 | Oct 10, 2024
+> Oct 01 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 120 | Oct 10, 2024
 
 <!--
 > Aug 29 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 05, 2023
