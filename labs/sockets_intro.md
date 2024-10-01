@@ -56,7 +56,6 @@ To ensure proper execution of each exercise, please remember to __stop and recom
   - Update `tcp_client`, `udp_client`, `tcp_server` and `udp_server` to accept the **client and server** port numbers as _user_ input.
   - Modify `tcp_client` and `udp_client` to accept the **server** IP Address as _user_ input.
   - Implement functionality that allows both clients to continuously send messages until a QUIT command is entered.
-  - Update the servers to display the port number associated with each connected client.
  
 ### Extra Credit:
   - Enhance the `tcp_server` to support multiple clients.
