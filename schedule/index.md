@@ -24,8 +24,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 5 | 24-Sep | EXAM 1 | CN: 1.1 - 2.6 | [Study Guide](../exams/exam1_study_guide.html) |
 >| 5 | 26-Sep | Transport Layer: [Design Issues](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | |
 >|  |  |  |  |  |
->| 6 | 1-Oct | Transport Layer: [UDP](slides/chapter_3.pdf) | CN: 3.2 - 3.3 | |
->| 6 | 3-Oct | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 |  |
+>| 6 | 1-Oct | Transport Layer: [UDP](slides/chapter_3.pdf) | CN: 3.2 - 3.3 | [Sockets](../labs/sockets_intro.html) |
+>| 6 | 3-Oct | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 |  [RDT](../labs/labs/rdt.html) |
 >|  |  |  |  |  |
 >| 7 | 08-Oct | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | |
 >| 7 | 10-Oct | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 | |
