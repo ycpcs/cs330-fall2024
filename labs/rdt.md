@@ -34,7 +34,7 @@ Visit the Chapter 3 - _Go-Back-N Protocol_ Java applet at the companion [Web sit
 - Repeat Problem 1 (all questions), but now with [Selective Repeat Protocol](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/content/interactiveanimations/selective-repeat-protocol/index.html).
 
 ### Problem 3.
-- List key Differences Between Selective Repeat and Go-Back-N?
+- List Key Differences Between Selective Repeat and Go-Back-N?
 
 ### Grading
 Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
