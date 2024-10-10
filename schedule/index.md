@@ -28,7 +28,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 6 | 3-Oct | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 |  [RDT](../labs/rdt.html) |
 >|  |  |  |  |  |
 >| 7 | 08-Oct | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | |
->| 7 | 10-Oct | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 | |
+>| 7 | 10-Oct | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 | Chapter 3 [Homework](../assign/homework-ch3.html) |
 >|  |  |  |  |  |
 >| 8 | 15-Oct | NO CLASSES - Fall Break |  |  |
 >| 8 | 17-Oct | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 | |
