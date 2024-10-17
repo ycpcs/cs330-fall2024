@@ -18,7 +18,7 @@ title: "Programming Assignment: Ping and Traceroute using C raw sockets"
     - Receive messages from clients.
     - Broadcast the received messages back to all clients.
     - Print received messages to the server console.
-  - Graceful Client Shutdown: Implement a way to gracefully handle shutting down clients (e.g., using Ctrl+C).
+  - Robustness: Implement a way to gracefully handle shutting down clients (e.g., using Ctrl+C).
 
 ### Client Implementation
   - Socket Creation: Implement a client that creates a socket and connects to the server.
