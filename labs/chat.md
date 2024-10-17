@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS330
-title: "Programming Assignment: Ping and Traceroute using C raw sockets"
+title: "Programming Assignment: Chat Application using C sockets"
 ---
 
 ### Background
