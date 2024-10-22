@@ -55,7 +55,7 @@ title: "Programming Assignment: Chat Application using C sockets"
 ### Code snippets
   - [tcp_client.c](files/tcp_client.c)  
   - [tcp_server.c](files/tcp_server.c)
-  - ```man select```
+  - Synchronous I/O Multiplexing using [select](https://www.man7.org/linux/man-pages/man2/select.2.html)
 
 ### Grading
 Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
