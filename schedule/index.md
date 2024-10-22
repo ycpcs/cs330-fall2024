@@ -31,9 +31,9 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 >| 7 | 10-Oct | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 | Chapter 3 [Homework](../assign/homework-ch3.html) |
 >|  |  |  |  |  |
 >| 8 | 15-Oct | NO CLASSES - Fall Break |  |  |
->| 8 | 17-Oct | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 | |
+>| 8 | 17-Oct | Chat Application | | [Chat](../labs/chat.html) |
 >|  |  |  |  |  |
->| 9 | 22-Oct | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.3 | |
+>| 9 | 22-Oct | Network Layer: [Router Architectures, IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.1 - 4.3 | |
 >| 9 | 24-Oct | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 | |
 >|  |  |  |  |  |
 >| 10 | 29-Oct | EXAM 2 | CN: 3.1 - 4.5 | |

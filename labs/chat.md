@@ -51,6 +51,11 @@ title: "Programming Assignment: Chat Application using C sockets"
  - Documentation (20%):
    - Clear instructions on how to compile and run the application.
    - A README file that describes the application and its functionality.
-  
+
+### Code snippets
+  - [tcp_client.c](files/tcp_client.c)  
+  - [tcp_server.c](files/tcp_server.c)
+  - ```man select```
+
 ### Grading
 Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.

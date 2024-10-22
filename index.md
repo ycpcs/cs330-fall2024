@@ -90,7 +90,8 @@ Welcome to the CS 330 course page for Fall 2024 at York College. All course-rela
 * **Sept 19** - Exam 1 [Study Guide](exams/exam1_study_guide.html)
 * **Sept 05** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due 
 * -->
-
+  
+* **Oct 31** - Chat Using C Sockets: [chat](labs/chat.html) Due
 * **Oct 17** - Chapter 3 [Homework](assign/homework-ch3.html) Due
 * **Oct 13** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due 
 * **Oct 10** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_intro.html) Due
