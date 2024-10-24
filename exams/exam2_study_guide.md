@@ -31,7 +31,7 @@ Study Guide
 ### DHCP (Dynamic Host Configuration Protocol)
 - **Operation**: Automatically assigns IP addresses.
 - **Steps**: Discovery, Offer, Request, Acknowledgment (DORA).
-- 
+
 ### Routing Forwarding Table
 - Identify destinations, determine next hops, update based on protocols.
 
