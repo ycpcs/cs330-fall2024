@@ -15,7 +15,7 @@ Indicates Total Length - which includes both the UDP header and the UDP payload 
 ### Problem 2 (8 pts)
 Which set of bytes is used to compute the checksum field in the UDP header, and how does this process work?
 <code>
-The entire UDP segment, except the checksum field itself, and the IP sender and receive address fields.
+The entire UDP segment, except the checksum field itself, and the IP sender and receive address fields. One's complement. 
 </code>
 
 ### Problem 3 (9 pts)
