@@ -12,6 +12,7 @@ This page links to individual labs. You **must** include screenshots with your s
 > Oct 01 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 120 | Oct 10, 2024
 > Oct 03 | Visual | [Reliable Data Transfer](rdt.html) | 75 | Oct 13, 2024
 > Oct 17 | Programming Lab | [Chat Application](chat.html) | 200 | Oct 31, 2024
+> Nov 12 | Programming | [Three Letter Match](tlm.md) | 300 | Nov 30, 2024
 
 <!--
 > Aug 29 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | 50 | Sept 05, 2023
