@@ -80,7 +80,6 @@ Welcome to the CS 330 course page for Fall 2024 at York College. All course-rela
 
 <!-- 
 * **Dec 09** - Raw C Sockets: [ping & traceroute](labs/c-raw-sockets.html) Due
-* **Nov 16** - Exam 3 [Study Guide](exams/exam3_study_guide.html)
 * **Oct 31** - Wireshark Lab: [IP](labs/files/Wireshark_IP_v8.1.pdf) Due
 * **Oct 26** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
 * **Oct 24** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
@@ -92,6 +91,7 @@ Welcome to the CS 330 course page for Fall 2024 at York College. All course-rela
 * -->
   
 * **Nov 30** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
+* **Nov 21** - Exam 3 [Study Guide](exams/exam3_study_guide.html)
 * **Oct 31** - Chat Using C Sockets: [chat](labs/chat.html) Due
 * **Sept 29** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
 * **Oct 17** - Chapter 3 [Homework](assign/homework-ch3.html) Due
