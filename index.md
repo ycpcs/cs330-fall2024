@@ -90,6 +90,7 @@ Welcome to the CS 330 course page for Fall 2024 at York College. All course-rela
 * **Sept 05** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due 
 * -->
   
+* **Dec 12** - Final Exam @ 6:00 PM - 8:00 PM
 * **Dec 10** - Raw C Sockets: [ping & traceroute](labs/c-raw-sockets.html) Due
 * **Nov 30** - Three Letter Match Lab: [TLM](labs/tlm.html) Due
 * **Nov 21** - Exam 3 [Study Guide](exams/exam3_study_guide.html)
